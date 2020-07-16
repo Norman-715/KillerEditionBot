@@ -25,7 +25,7 @@ If First time then you need to install some just copy this , hit enter in termux
 
 `$ apt install git -y`
 
-`$ git clone https://github.com/Norman-715/LukheleBot`
+`$ git clone https://github.com/Norman-715/KillerEditionBot`
 
 `$ apt install git python -y`
 
@@ -33,11 +33,11 @@ If First time then you need to install some just copy this , hit enter in termux
 
 **After adding those commands add these**
 
-`$cd $RK`
+`$ cd $RK`
 
-`$cd LukheleBot`
+`$ cd KillerEditionBot`
 
-`$python string_session.py`
+`$ python string_session.py`
 
 **Then done..**
 
