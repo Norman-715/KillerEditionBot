@@ -19,6 +19,6 @@ async def amireallyalive(alive):
                      "` ☞︎︎︎ Github Status:`online!\n"
                      "` ☞︎︎︎ Setup:` **Complete!**\n"
                      "` ☞︎︎︎ Credits:`Aditya\n"
-                     "`            `Mr-edition\n"
+                     "` ☞︎︎︎ Credits:`Mr-edition\n"
                      f"` ☞︎︎︎ My peru owner`: {DEFAULTUSER}\n\n"
                      "           [Deploy this userbot Now](https://github.com/Norman-715/KillerEditionBot)")
