@@ -1,4 +1,4 @@
-![LukheleBot](https://telegra.ph/file/56972313c9b3380ba50eb.jpg)
+![LukheleBot](https://telegra.ph/file/920497dd2f2333fd15e7a.jpg)
           𝐵𝑜𝑡 𝑝𝑜𝑤𝑒𝑟𝑑 𝑏𝑦 𝑙𝑢𝑘ℎ𝑒𝑙𝑒
 # Installing
 ### The Easy Way37
