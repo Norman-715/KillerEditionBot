@@ -20,5 +20,5 @@ async def amireallyalive(alive):
                      "` ◇ Setup:` **Complete!**\n"
                      "` ◇ Credits:`Aditya\n"
                      "` ◇ Credits:`Mr-edition\n"
-                     f"`◇ My peru owner`: {DEFAULTUSER}\n\n"
+                      f"`◇ My peru owner`: {DEFAULTUSER}\n\n"
                      "           [Deploy this userbot Now](https://github.com/Norman-715/KillerEditionBot)")
